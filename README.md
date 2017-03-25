@@ -1,2 +1,3 @@
-# SMSolutions
-Test Project
+# test-project
+
+a [Sails](http://sailsjs.org) application
